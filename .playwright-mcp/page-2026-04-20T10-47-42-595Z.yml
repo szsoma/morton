@@ -1,0 +1,88 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link "Shop" [ref=e6] [cursor=pointer]:
+          - /url: "#shop"
+        - link "Custom" [ref=e7] [cursor=pointer]:
+          - /url: "#custom"
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: "#about"
+      - link "Morton" [ref=e10] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e11]:
+        - link "Login" [ref=e12] [cursor=pointer]:
+          - /url: "#"
+        - button "Cart" [ref=e13]:
+          - img [ref=e14]
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - heading "Morton Backpacks" [level=1] [ref=e22]
+      - generic [ref=e23]:
+        - button "Play" [ref=e24]:
+          - img [ref=e25]
+        - button "Mute" [ref=e27]:
+          - img [ref=e28]
+    - generic [ref=e31]:
+      - img [ref=e33]
+      - generic [ref=e35]:
+        - paragraph [ref=e36]: Ultra-fast, ultra-refined. The Ultra Collection is engineered for speed with aero-tuned, Bluesign®-approved fabrics that cut drag and maximize efficiency. A second-skin fit moves with you, while moisture-wicking tech and strategic ventilation keep you cool when the pace heats up. Reflective details, radio pockets, and bonded seams add pro-level function—because every watt counts.
+        - button "Learn more" [ref=e38]:
+          - img [ref=e39]
+          - generic [ref=e41]: Learn more
+    - generic [ref=e43]:
+      - generic [ref=e48]:
+        - paragraph [ref=e49]: Quality
+        - generic:
+          - paragraph: Ultra-fast, ultra-refined. The Ultra Collection is engineered for speed with aero-tuned, Bluesign®-approved fabrics that cut drag and maximize efficiency. A second-skin fit moves with you, while moisture-wicking tech and strategic ventilation keep you cool when the pace heats up.
+      - generic [ref=e50]:
+        - paragraph [ref=e51]: Love
+        - generic:
+          - paragraph: Designed with passion for cyclists who demand the best from their gear.
+      - generic [ref=e52]:
+        - paragraph [ref=e53]: LONG-LASTING
+        - generic:
+          - paragraph: Built to endure thousands of kilometers. Premium materials and reinforced construction ensure your Morton bag goes the distance season after season.
+      - generic [ref=e54]:
+        - paragraph [ref=e55]: Bold
+        - generic:
+          - paragraph: Ultra-fast, ultra-refined. The Ultra Collection is engineered for speed with aero-tuned, Bluesign®-approved fabrics that cut drag and maximize efficiency. A second-skin fit moves with you, while moisture-wicking tech and strategic ventilation keep you cool when the pace heats up.
+    - generic [ref=e57]:
+      - generic [ref=e58]:
+        - generic [ref=e59]:
+          - generic [ref=e60]: Custom design
+          - heading "Can't find what you want?" [level=2] [ref=e61]
+        - paragraph [ref=e62]: Spice up your bag with your favorite colors
+        - button "Send message" [ref=e64]:
+          - img [ref=e65]
+          - generic [ref=e67]: Send message
+      - img "Custom Morton backpack" [ref=e69]
+    - generic [ref=e71]:
+      - generic [ref=e72]:
+        - generic [ref=e73]:
+          - paragraph [ref=e74]:
+            - generic [ref=e75]: All orders ship within 24 business hours.
+            - generic [ref=e76]: 3-year product warranty
+            - text: 30-day returns
+          - generic [ref=e77]:
+            - generic [ref=e78]:
+              - paragraph [ref=e79]: Get updates about new drops!
+              - paragraph [ref=e80]: Receive updates on pre-access, product drops, exclusive member offers, events, and more — delivered right to your inbox.
+            - generic [ref=e81]:
+              - textbox "email" [ref=e82]
+              - button "Subscribe" [ref=e83]:
+                - img [ref=e84]
+                - generic [ref=e86]: Subscribe
+        - generic [ref=e87]:
+          - paragraph [ref=e89]: Service
+          - paragraph [ref=e91]: About
+          - paragraph [ref=e93]: Social
+      - generic [ref=e95]: Morton
+      - generic [ref=e96]:
+        - img "Morton logo" [ref=e97]
+        - generic [ref=e98]:
+          - paragraph [ref=e99]: COPYRIGHT 20-25. MORTON Backpacks.
+          - paragraph [ref=e100]: All rights reserved.
+  - button "Open Next.js Dev Tools" [ref=e106] [cursor=pointer]:
+    - img [ref=e107]
+  - alert [ref=e110]

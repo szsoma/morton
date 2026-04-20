@@ -1,0 +1,128 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link "Shop" [ref=e6] [cursor=pointer]:
+          - /url: "#shop"
+        - link "Custom" [ref=e7] [cursor=pointer]:
+          - /url: "#custom"
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: "#about"
+      - link "Morton" [ref=e10] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e11]:
+        - link "Login" [ref=e12] [cursor=pointer]:
+          - /url: "#"
+        - button "Cart" [ref=e13]:
+          - img [ref=e14]
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - heading "Morton Backpacks" [level=1] [ref=e22]
+      - generic [ref=e23]:
+        - button "Play" [ref=e24]:
+          - img [ref=e25]
+        - button "Mute" [ref=e27]:
+          - img [ref=e28]
+    - generic [ref=e33]:
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - img "Jupiter 28 - 32L Backpack + 2L Sling" [ref=e37]
+          - generic [ref=e38]: NEW
+        - generic [ref=e39]:
+          - generic [ref=e40]: Jupiter 28 - 32L Backpack + 2L Sling
+          - generic [ref=e41]: €175.99
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - img "Jupiter 28 - 32L backpack" [ref=e45]
+          - generic [ref=e46]: NEW
+        - generic [ref=e47]:
+          - generic [ref=e48]: Jupiter 28 - 32L backpack
+          - generic [ref=e49]: €175.99
+      - generic [ref=e51]:
+        - img "Jupiter 28 - 32L Backpack" [ref=e53]
+        - generic [ref=e54]:
+          - generic [ref=e55]: Jupiter 28 - 32L Backpack
+          - generic [ref=e56]: €175.99
+      - generic [ref=e58]:
+        - img "Jupiter 18L Tote bag" [ref=e60]
+        - generic [ref=e61]:
+          - generic [ref=e62]: Jupiter 18L Tote bag
+          - generic [ref=e63]: €175.99
+      - generic [ref=e65]:
+        - img "Jupiter 18L Tote bag" [ref=e67]
+        - generic [ref=e68]:
+          - generic [ref=e69]: Jupiter 18L Tote bag
+          - generic [ref=e70]: €175.99
+    - generic [ref=e71]:
+      - img [ref=e73]
+      - generic [ref=e75]:
+        - paragraph [ref=e76]: Ultra-fast, ultra-refined. The Ultra Collection is engineered for speed with aero-tuned, Bluesign®-approved fabrics that cut drag and maximize efficiency. A second-skin fit moves with you, while moisture-wicking tech and strategic ventilation keep you cool when the pace heats up. Reflective details, radio pockets, and bonded seams add pro-level function—because every watt counts.
+        - button "Learn more" [ref=e77]:
+          - img [ref=e78]
+          - generic [ref=e80]: Learn more
+    - generic [ref=e82]:
+      - paragraph [ref=e88]: Quality
+      - paragraph [ref=e90]: Love
+      - paragraph [ref=e92]: LONG-LASTING
+      - paragraph [ref=e94]: Bold
+    - generic [ref=e96]:
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - generic [ref=e99]: Custom design
+          - heading "Can't find what you want?" [level=2] [ref=e100]
+        - paragraph [ref=e101]: Spice up your bag with your favorite colors
+        - button "Send message" [ref=e103]:
+          - img [ref=e104]
+          - generic [ref=e106]: Send message
+      - img "Custom Morton backpack" [ref=e108]
+    - generic [ref=e110]:
+      - generic [ref=e111]:
+        - generic [ref=e112]:
+          - paragraph [ref=e113]:
+            - text: All orders ship within 24 business hours.
+            - text: 3-year product warranty
+            - text: 30-day returns
+          - generic [ref=e114]:
+            - generic [ref=e115]:
+              - paragraph [ref=e116]: Get updates about new drops!
+              - paragraph [ref=e117]: Receive updates on pre-access, product drops, exclusive member offers, events, and more — delivered right to your inbox.
+            - generic [ref=e118]:
+              - textbox "email" [ref=e119]
+              - button "Subscribe" [ref=e120]:
+                - img [ref=e121]
+                - generic [ref=e123]: Subscribe
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - paragraph [ref=e126]: Service
+            - generic [ref=e127]:
+              - link "Contact" [ref=e128] [cursor=pointer]:
+                - /url: "#"
+              - link "Shipping" [ref=e129] [cursor=pointer]:
+                - /url: "#"
+              - link "Returns" [ref=e130] [cursor=pointer]:
+                - /url: "#"
+              - link "Warranty" [ref=e131] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=e132]:
+            - paragraph [ref=e133]: About
+            - generic [ref=e134]:
+              - link "Press" [ref=e135] [cursor=pointer]:
+                - /url: "#"
+              - link "About me" [ref=e136] [cursor=pointer]:
+                - /url: "#"
+              - link "Changelog" [ref=e137] [cursor=pointer]:
+                - /url: "#"
+              - link "Materials" [ref=e138] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=e139]:
+            - paragraph [ref=e140]: Social
+            - generic [ref=e141]:
+              - link "Instagram" [ref=e142] [cursor=pointer]:
+                - /url: "#"
+              - link "TikTok" [ref=e143] [cursor=pointer]:
+                - /url: "#"
+      - generic [ref=e145]: Morton
+      - generic [ref=e150]:
+        - paragraph [ref=e151]: COPYRIGHT 20-25. MORTON Backpacks.
+        - paragraph [ref=e152]: All rights reserved.
+  - alert [ref=e153]

@@ -1,0 +1,12 @@
+[     352ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/images/logo-white.svg:0
+[     445ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/0v0p_next_dist_0twlj~6._.js:2431
+[     514ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/0v0p_next_dist_0twlj~6._.js:2431
+[     519ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/videos/hero.mp4:0
+[   77750ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0v0p_next_dist_0twlj~6._.js:2431
+[   78003ms] [LOG] [Fast Refresh] done in 347ms @ http://localhost:3000/_next/static/chunks/0v0p_next_dist_0twlj~6._.js:2431
+[   78006ms] [LOG] %c%s%c Generating import map background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server   @ http://localhost:3000/_next/static/chunks/0v0p_next_dist_0twlj~6._.js:2431
+[   78251ms] [LOG] %c%s%c Writing import map to background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server   /Users/soma/Documents/work/03_coding/websites/Morton/src/app/(payload)/admin/importMap.js @ http://localhost:3000/_next/static/chunks/0v0p_next_dist_0twlj~6._.js:2431
+[   78410ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0v0p_next_dist_0twlj~6._.js:2431
+[   80023ms] [LOG] [Fast Refresh] done in 1736ms @ http://localhost:3000/_next/static/chunks/0v0p_next_dist_0twlj~6._.js:2431
+[   80025ms] [LOG] %c%s%c Generating import map background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server   @ http://localhost:3000/_next/static/chunks/0v0p_next_dist_0twlj~6._.js:2431
+[   80091ms] [LOG] %c%s%c No new imports found, skipping writing import map background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server   @ http://localhost:3000/_next/static/chunks/0v0p_next_dist_0twlj~6._.js:2431
